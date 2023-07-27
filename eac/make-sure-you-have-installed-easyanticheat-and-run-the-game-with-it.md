@@ -35,7 +35,7 @@ Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in instal
 
 1. Right click on the game, then go to manage and click on Browse local files.
 
-<img src="../.gitbook/assets/browse.png" alt="Right click on the game, then go to manage and click on Browse local files" data-size="original">
+<img src="../.gitbook/assets/browse (1).png" alt="Right click on the game, then go to manage and click on Browse local files" data-size="original">
 
 2. Right click on executable and click "Run as administrator".
 
