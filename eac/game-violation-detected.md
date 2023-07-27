@@ -9,7 +9,7 @@ If you see #0000000D error code, get rid of a process that interfere with EAC (i
 3. Run the [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix) (download button).
 4. Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in installed files.
 
-<figure><img src="../.gitbook/assets/browse (1).png" alt="" width="374"><figcaption><p>Right click on the game, then go to manage and click on Browse local files</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Right click on the game, then go to manage and click on Browse local files</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/runasadmin.png" alt="" width="287"><figcaption><p>Right click on executable and click "Run as administrator".</p></figcaption></figure>
 
