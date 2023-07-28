@@ -20,7 +20,7 @@
 
 ## 📶 Connectivity
 
-* [🔘 Invalid IPv6](connectivity/invalid-ipv6.md)
+* [Invalid IPv6](connectivity/invalid-ipv6.md)
 
 ## 📑 Other
 
