@@ -18,6 +18,10 @@
 
 * [🔘 The application was unable to start correctly (0xc0000005)](crashes/the-application-was-unable-to-start-correctly-0xc0000005.md)
 
+## 📶 Connectivity
+
+* [Invalid IPv6](connectivity/invalid-ipv6.md)
+
 ## 📑 Other
 
 * [🔘 Your account is being reviewed by moderators](other/your-account-is-being-reviewed-by-moderators.md)
