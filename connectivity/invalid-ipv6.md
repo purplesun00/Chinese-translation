@@ -29,7 +29,7 @@ If you're stuck on connection to master server and when you're pinging `api.batt
 
 <img src="../.gitbook/assets/network.png" alt="" data-size="original">
 
-2. Depending on your connection type select Wifi or Ethernet on "Change adapter options".
+2. Select Ethernet tab and click on "Change adapter options".
 
 <img src="../.gitbook/assets/adapter.png" alt="" data-size="original">
 
@@ -47,26 +47,6 @@ If you're stuck on connection to master server and when you're pinging `api.batt
 
 <summary>Windows 11</summary>
 
-
-
-1. Click on "Network & Internet" in Windows Settings.
-
-<img src="https://images.taylorgibbs.dev/bkfhsk.png" alt="" data-size="original">
-
-2. Click "Advanced Network Settings"
-
-<img src="https://images.taylorgibbs.dev/uzyc3u.png" alt="" data-size="original">
-
-3. Scroll down and click "More  network adapter options"
-
-<img src="https://images.taylorgibbs.dev/a2myev.png" alt="" data-size="original">
-
-4. Right-click on your internet connection and click "Properties"
-
-<img src="https://images.taylorgibbs.dev/rn04y5.png" alt="" data-size="original">
-
-4. Disable "Internet Protocol Version 6 (TCP/IPv6)" and press OK.
-
-<img src="https://images.taylorgibbs.dev/no8q11.png" alt="" data-size="original">
+WIP
 
 </details>
