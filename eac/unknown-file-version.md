@@ -9,4 +9,4 @@ description: This error usually means that game files are corrupted.
 1. Reboot your PC.
 2. Verify game files.
 
-<figure><img src="../.gitbook/assets/BBR_Validation (1).gif" alt="" width="563"><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt=""><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
