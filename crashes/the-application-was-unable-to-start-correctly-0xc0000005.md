@@ -19,6 +19,6 @@ description: >-
 4. Disable overclocking software if you have any.
 5. Verify game files.
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt=""><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
 
 6. Reinstall the game on other drive/partition.

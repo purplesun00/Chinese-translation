@@ -8,10 +8,10 @@ coverY: 0
 
 <details>
 
-<summary>Step 1 - Run the <a href="https://github.com/livingflore/BattleBitEACFix">EAC Fix batch</a></summary>
+<summary>Step 1 - Run the <a href="https://github.com/livingflore/BattleBitEACFix/releases">EAC Fix batch</a></summary>
 
-1. Go to [github repo](https://github.com/livingflore/BattleBitEACFix).
-2. Press ![](../.gitbook/assets/downloadbutton.svg) button.
+1. Go to [releases page](https://github.com/livingflore/BattleBitEACFix/releases).
+2. Download BattleBitEACFix.bat.
 3. Run the batch.
 4. You should see output as shown [here](https://i.imgur.com/kHZGKkk.png).
 

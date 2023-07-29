@@ -16,6 +16,6 @@
 
 <figure><img src="../.gitbook/assets/chkdsk.png" alt=""><figcaption></figcaption></figure>
 
-After you press Y, you'll need to restart PC so chkdsk can start.
+After you'll press Y, reboot your PC.
 
 <figure><img src="../.gitbook/assets/chkdskloading.png" alt=""><figcaption></figcaption></figure>
