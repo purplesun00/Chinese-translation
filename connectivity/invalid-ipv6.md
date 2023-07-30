@@ -19,7 +19,7 @@ layout:
 
 # 🔘 Invalid IPv6
 
-If you're stuck on connection to master server and when you're pinging `api.battlebit.cloud` and it resolves as Invalid IPv6, do next:
+If you're stuck on connection to master server and when you're pinging `api.battlebit.cloud` it resolves as Invalid IPv6, do next:
 
 <details>
 
@@ -55,11 +55,11 @@ If you're stuck on connection to master server and when you're pinging `api.batt
 
 <img src="https://images.taylorgibbs.dev/uzyc3u.png" alt="" data-size="original">
 
-3. Scroll down and click "More network adapter options"
+3. Scroll down and click "More network adapter options".
 
 <img src="https://images.taylorgibbs.dev/a2myev.png" alt="" data-size="original">
 
-4. Right-click on your internet connection and click "Properties"
+4. Right-click on your internet connection and click "Properties".
 
 <img src="https://images.taylorgibbs.dev/rn04y5.png" alt="" data-size="original">
 

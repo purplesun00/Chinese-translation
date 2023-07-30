@@ -1,5 +1,5 @@
 ---
-description: This error usually means that game files are corrupted.
+description: Usual cause of this issue - corrupted game files.
 ---
 
 # 🔘 Unknown file version

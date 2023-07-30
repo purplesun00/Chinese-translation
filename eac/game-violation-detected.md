@@ -20,7 +20,7 @@ If you see #0000000D error code, get rid of a process that interfere with EAC (i
 5. Enable [Data Execution Prevention](https://support.microsoft.com/en-us/topic/what-is-data-execution-prevention-dep-60dabc2b-90db-45fc-9b18-512419135817).
 6. Verify driver signatures.
 
-<figure><img src="../.gitbook/assets/runsigverif.png" alt=""><figcaption><p>Press Win+R, type <code>sigverif</code> and press enter.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/runsigverif.png" alt=""><figcaption><p>Press Win+R, type <code>sigverif</code> and press Enter.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/sigverif.png" alt=""><figcaption><p>Proceed with driver signature verification by pressing "Start".</p></figcaption></figure>
 

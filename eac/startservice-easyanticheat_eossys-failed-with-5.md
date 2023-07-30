@@ -2,14 +2,14 @@
 description: 'Error 5: Access Denied'
 ---
 
-# 🔘 StartService EasyAntiCheat\_EOSSys failed with 5
+# 🔘 StartService EasyAntiCheat\_EOSSys failed with 5.
 
 <figure><img src="../.gitbook/assets/eossysfailedwith5.png" alt="" width="398"><figcaption></figcaption></figure>
 
 1. Run the [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix) (download button).
 2. Grant EAC full access for application packages in registry.
 
-<figure><img src="../.gitbook/assets/runregedit.png" alt=""><figcaption><p>Press <code>Win+R</code>, type <code>regedit.exe</code> and press Enter.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/runregedit.png" alt=""><figcaption><p>Press Win+R, type <code>regedit.exe</code> and press Enter.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/uacregistry.png" alt=""><figcaption><p>Press Yes.</p></figcaption></figure>
 
