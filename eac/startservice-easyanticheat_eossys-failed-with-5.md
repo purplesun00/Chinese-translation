@@ -6,7 +6,7 @@ description: 'Error 5: Access Denied'
 
 <figure><img src="../.gitbook/assets/eossysfailedwith5.png" alt="" width="398"><figcaption></figcaption></figure>
 
-1. Run the [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix) (download button).
+1. Run the [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix/releases) (.bat file).
 2. Grant EAC full access for application packages in registry.
 
 <figure><img src="../.gitbook/assets/runregedit.png" alt=""><figcaption><p>Press Win+R, type <code>regedit.exe</code> and press Enter.</p></figcaption></figure>

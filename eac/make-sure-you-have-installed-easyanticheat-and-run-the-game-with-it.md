@@ -4,32 +4,11 @@ cover: ../.gitbook/assets/redtext.png
 coverY: 0
 ---
 
-# 🔘 Make sure you have installed EasyAntiCheat and run the game with it
+# 🔘 Make sure you have installed EasyAntiCheat and run the game with it.
 
 <details>
 
-<summary>Step 1 - Run the <a href="https://github.com/livingflore/BattleBitEACFix/releases">EAC Fix batch</a></summary>
-
-1. Go to [releases page](https://github.com/livingflore/BattleBitEACFix/releases).
-2. Download BattleBitEACFix.bat.
-3. Run the batch.
-4. You should see output as shown [here](https://i.imgur.com/kHZGKkk.png).
-
-</details>
-
-<details>
-
-<summary>Step 2 - VCRedists</summary>
-
-Ensure that **BOTH** VCRedists installed properly - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) and [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). When running installers you should see 3 buttons - repair, uninstall and cancel as on screenshot below. If you can't see it - proceed with installation.
-
-<img src="../.gitbook/assets/vcredistx64.png" alt="" data-size="original"><img src="../.gitbook/assets/vcredistx86.png" alt="" data-size="original">
-
-</details>
-
-<details>
-
-<summary>Step 3 - Running executables as admin</summary>
+<summary>Step 1 - Running executables as admin</summary>
 
 Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in installed files.
 
@@ -40,6 +19,29 @@ Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in instal
 2. Right click on executable and click "Run as administrator".
 
 <img src="../.gitbook/assets/runasadmin.png" alt="Right click on executable and click &#x22;Run as administrator&#x22;." data-size="original">
+
+</details>
+
+<details>
+
+<summary>Step 2 - Run the <a href="https://github.com/livingflore/BattleBitEACFix/releases">EAC Fix batch</a></summary>
+
+1. Go to [releases page](https://github.com/livingflore/BattleBitEACFix/releases).
+2. Download BattleBitEACFix.bat.
+3. Run the batch.
+4. You should see output as shown below.
+
+<img src="../.gitbook/assets/batchoutput.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>Step 3 - VCRedists</summary>
+
+Ensure that **BOTH** VCRedists installed properly - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) and [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). When running installers you should see 3 buttons - repair, uninstall and cancel as on screenshot below. If you can't see it - proceed with installation.
+
+<img src="../.gitbook/assets/vcredistx64.png" alt="" data-size="original"><img src="../.gitbook/assets/vcredistx86.png" alt="" data-size="original">
 
 </details>
 
