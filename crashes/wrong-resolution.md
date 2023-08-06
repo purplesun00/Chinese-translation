@@ -14,7 +14,7 @@ This page is for users that have manually adjusted their resolution to a value t
 
 <figure><img src="../.gitbook/assets/appdata_folder_config_file.png" alt=""><figcaption><p>AppData/Roaming folder</p></figcaption></figure>
 
-3. &#x20;Locate the resolution line within this file and adjust it to match your monitor settings:
+3. &#x20;Set `customresolution` to true and `customscreenresolution` to match your monitor settings:
 
 <figure><img src="../.gitbook/assets/config_file.png" alt=""><figcaption><p>BattleBit config file</p></figcaption></figure>
 
