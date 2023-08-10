@@ -1,5 +1,5 @@
 ---
-description: Beside EAC, your connection can also cause this issue.
+description: Помимо EAC, ваше подключение может быть причиной этой ошибки.
 cover: ../.gitbook/assets/redtext.png
 coverY: 0
 ---
@@ -8,28 +8,28 @@ coverY: 0
 
 <details>
 
-<summary>Step 1 - Running executables as admin</summary>
+<summary>Шаг 1 - Запуск исполняемых файлов от имени администратора</summary>
 
-Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in installed files.
+Попробуйте запустить `BattleBitEAC.exe` или `EasyAntiCheat.exe` (расположены в папке с игрой) от имени администратора.
 
-1. Right click on the game, then go to manage and click on Browse local files.
+1. Нажмите ПКМ по игре, затем "Управление" и "Просмотреть локальные файлы".
 
-<img src="../.gitbook/assets/browse.png" alt="Right click on the game, then go to manage and click on Browse local files" data-size="original">
+<img src="../.gitbook/assets/browse (1).png" alt="Right click on the game, then go to manage and click on Browse local files" data-size="original">
 
-2. Right click on executable and click "Run as administrator".
+2. Нажмите ПКМ по исполняемому файлу и "Запуск от имени администратора".
 
-<img src="../.gitbook/assets/runasadmin.png" alt="Right click on executable and click &#x22;Run as administrator&#x22;." data-size="original">
+![](broken-reference)
 
 </details>
 
 <details>
 
-<summary>Step 2 - Run the <a href="https://github.com/livingflore/BattleBitEACFix/releases">EAC Fix batch</a></summary>
+<summary>Шаг 2 - <a href="https://github.com/livingflore/BattleBitEACFix/releases">EAC Fix batch</a></summary>
 
-1. Go to [releases page](https://github.com/livingflore/BattleBitEACFix/releases).
-2. Download BattleBitEACFix.bat.
-3. Run the batch.
-4. You should see output as shown below.
+1. Перейдите на [страницу релизов](https://github.com/livingflore/BattleBitEACFix/releases).
+2. Скачайте `BattleBitEACFix.bat`.
+3. Запустите его. Если SmartScreen предотвратит запуск файла, нажмите "Подробнее" и "Выполнить в любом случае".
+4. После того, как скрипт закончит работу, вы должны увидеть текст как показано ниже. Нажмите Y, чтобы перезагрузить компьютер.
 
 <img src="../.gitbook/assets/batchoutput.png" alt="" data-size="original">
 
@@ -37,9 +37,9 @@ Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in instal
 
 <details>
 
-<summary>Step 3 - VCRedists</summary>
+<summary>Шаг 3 -  Пакеты VCRedists</summary>
 
-Ensure that **BOTH** VCRedists installed properly - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) and [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). When running installers you should see 3 buttons - repair, uninstall and cancel as on screenshot below. If you can't see it - proceed with installation.
+Убедитесь, что **оба** пакета VCRedist установлены правильно - [x86](https://aka.ms/vs/17/release/vc\_redist.x86.exe) и [x64](https://aka.ms/vs/17/release/vc\_redist.x64.exe). Когда вы запустите установщик, вы должны увидеть 3 кнопки - "Исправить", "Удалить" и "Закрыть". Если вы их не наблюдаете - продолжайте установку.
 
 <img src="../.gitbook/assets/vcredistx64.png" alt="" data-size="original"><img src="../.gitbook/assets/vcredistx86.png" alt="" data-size="original">
 
@@ -47,13 +47,13 @@ Ensure that **BOTH** VCRedists installed properly - [x86](https://aka.ms/vs/17/r
 
 <details>
 
-<summary>Step 4 - Connectivity issues</summary>
+<summary>Шаг 4 - Проблемы с подключением</summary>
 
-This issue can happen when your connection unstable / Steam is down / you can't reach either EAC or BattleBit servers.
+Эта проблема так же может возникнуть, если у вас нестабильное подключение / Steam лежит / вы не можете подключиться к серверам EAC или серверам BattleBit.
 
-1. Check Steam if you're in offline mode.
-2. Disable malware protection and firewall if you use third party antivirus (Kaspersky, Avast, etc)
-3. Try to use mobile hotspot instead of your main internet connection just to launch the game. If it happens that you don't have it, proceed to the next step.
-4. Use any **private** VPN or [Cloudflare WARP](https://install.appcenter.ms/orgs/cloudflare/apps/1.1.1.1-windows-1/distribution\_groups/release).
+1. Проверьте, включен ли у вас режим "Не в сети" в Steam.
+2. Выключите защиту от вирусов и файрвол если вы используете сторонний антивирус (Касперский, Аваст и т.д.).
+3. Попробуйте раздать мобильный интернет чтобы проверить, исчезнет ли эта проблема. Если у вас нет мобильного интернета или возможности его раздать, перейдите к следующему шагу.
+4. Используйте любой **приватный** VPN или [Cloudflare WARP](https://install.appcenter.ms/orgs/cloudflare/apps/1.1.1.1-windows-1/distribution\_groups/release).
 
 </details>

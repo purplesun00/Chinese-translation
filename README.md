@@ -1,7 +1,7 @@
 ---
 description: >-
-  Welcome. This documentations purpose is to help you with the issues you can
-  face while playing BattleBit.
+  Добро пожаловать. Цель этой документации - помочь вам в решении проблем, с
+  которыми вы можете столкнуться во время игры в BattleBit.
 cover: .gitbook/assets/troubleshoot.png
 coverY: 4
 layout:
@@ -20,7 +20,7 @@ layout:
     visible: false
 ---
 
-# ⚙ BattleBit Troubleshooting Docs
+# ⚙ BattleBit - Документация по устранению ошибок
 
 {% content-ref url="eac/make-sure-you-have-installed-easyanticheat-and-run-the-game-with-it.md" %}
 [make-sure-you-have-installed-easyanticheat-and-run-the-game-with-it.md](eac/make-sure-you-have-installed-easyanticheat-and-run-the-game-with-it.md)

@@ -1,7 +1,7 @@
 ---
 description: Make sure game is properly launched with anti cheat services.
 cover: ../.gitbook/assets/ackick.png
-coverY: -3.74785998472845
+coverY: 0
 ---
 
 # 🔘 You were kicked by anti cheat.

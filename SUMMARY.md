@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⚙ BattleBit Troubleshooting Docs](README.md)
+* [⚙ BattleBit - Документация по устранению ошибок](README.md)
 
 ## 🛡 EAC
 
