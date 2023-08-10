@@ -6,7 +6,7 @@ description: Usual cause of this issue - corrupted game files.
 
 <figure><img src="../.gitbook/assets/unknownfileversion.png" alt=""><figcaption></figcaption></figure>
 
-1. Reboot your PC.
-2. Verify game files.
+1. Перезагрузите ваш ПК.
+2. Проверьте целостность файлов игры.
 
-<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt=""><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt=""><figcaption><p>Нажмите ПКМ по игре, затем "Свойства...", перейдите во вкладку "Установленные файлы" и нажмите "Проверить целостность файлов игры".</p></figcaption></figure>

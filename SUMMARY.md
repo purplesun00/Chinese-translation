@@ -6,7 +6,7 @@
 
 * [🔘 Make sure you have installed EasyAntiCheat and run the game with it.](eac/make-sure-you-have-installed-easyanticheat-and-run-the-game-with-it.md)
 * [🔘 Вы были исключены из игры античит службой.](eac/you-were-kicked-by-anti-cheat.md)
-* [🔘 Launch Error - Easy Anti-Cheat is not installed.](eac/launch-error-easy-anti-cheat-is-not-installed.md)
+* [🔘 Ошибка запуска - служба Easy Anti-Cheat не установлена.](eac/launch-error-easy-anti-cheat-is-not-installed.md)
 * [🔘 CreateFile failed with 32.](eac/createfile-failed-with-32.md)
 * [🔘 Untrusted system file](eac/untrusted-system-file.md)
 * [🔘 Game Security Violation Detected](eac/game-violation-detected.md)

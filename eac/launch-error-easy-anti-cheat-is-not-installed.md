@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/eacnotinstalled.png
-coverY: 24.25866666666667
+coverY: 12.25866666666667
 layout:
   cover:
     visible: true
@@ -17,14 +17,14 @@ layout:
     visible: true
 ---
 
-# 🔘 Launch Error - Easy Anti-Cheat is not installed.
+# 🔘 Ошибка запуска - служба Easy Anti-Cheat не установлена.
 
-Run the ["Install & Repair Easy Anti Cheat"](https://i.imgur.com/466AXn8.png) launch option.
+Выберите вариант запуска "Install & Repair Easy Anti Cheat".
 
 <figure><img src="../.gitbook/assets/repaireac.png" alt="" width="357"><figcaption></figcaption></figure>
 
-If you can't reach launch options, here's how you can bring it back:
+Если при запуске игры у вас не появляются варианты запуска, выполните следующее:
 
-<figure><img src="../.gitbook/assets/properties.png" alt="" width="330"><figcaption><p>Right click on the game and press "Properties..."</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/properties (1).png" alt=""><figcaption><p>Нажмите ПКМ по игре и выберите "Свойства..."</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/askwhenstarting.png" alt="" width="563"><figcaption><p>Select "General" tab and under "Launch Options" select "Ask when starting game".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/askwhenstarting.png" alt="" width="563"><figcaption><p>Выберите вкладку "Общие" и под заголовком "ПАРАМЕТРЫ ЗАПУСКА" выберите "Спрашивать при запуске игры".</p></figcaption></figure>
