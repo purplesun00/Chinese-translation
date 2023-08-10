@@ -14,11 +14,11 @@ coverY: 0
 
 1. Нажмите ПКМ по игре, затем "Управление" и "Просмотреть локальные файлы".
 
-<img src="../.gitbook/assets/browse (1).png" alt="Right click on the game, then go to manage and click on Browse local files" data-size="original">
+<img src="../.gitbook/assets/browse.png" alt="" data-size="original">
 
 2. Нажмите ПКМ по исполняемому файлу и "Запуск от имени администратора".
 
-![](broken-reference)
+<img src="../.gitbook/assets/runasadmin.png" alt="" data-size="original">
 
 </details>
 

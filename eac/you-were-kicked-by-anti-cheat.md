@@ -1,22 +1,23 @@
 ---
-description: Make sure game is properly launched with anti cheat services.
+description: Убедитесь, что игра была запущена с античит службой.
 cover: ../.gitbook/assets/ackick.png
 coverY: 0
 ---
 
-# 🔘 You were kicked by anti cheat.
+# 🔘 Вы были исключены из игры античит службой.
 
-1. if you using custom lang file - get rid of it and you're good to go.
-2. Make sure that you don't have EAC entries in hosts file (`etc/hosts` or `C:\Windows\System32\drivers\etc\hosts`) which was needed for some games (Star Citizen as example).
-3. Run the [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix/releases) (.bat file).
-4. Ensure that absolutely **NOTHING** blocks EAC connection (antivirus/firewall/ISP).
-5. Delete `Certificates` folder in Installed Files/`EasyAntiCheat` folder and verify game files.
+1. Если вы заменили файл English.lang в корне игры - удалите его и проверьте целостность файлов игры.
+2. Убедитесь, что у вас нету записей с доменами EAC в файле hosts (`etc/hosts` или `C:\Windows\System32\drivers\etc\hosts`), которые были необходимы для работы некоторых игр (например Star Citizen).
+3. Запустите [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix/releases) (файл BattleBitEACFix.bat).
+4. Убедитесь, что абсолютно **НИЧЕГО** не блокирует подключение EAC (антивирус/файрвол/провайдер).
+5.
+6. Удалите папку `Certificates` в папке `EasyAntiCheat` (корень игры) и проверьте целостность файлов.
 
-<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Right click on the game, then go to manage and click on Browse local files</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Нажмите ПКМ по игре, затем "Управление" и "Просмотреть локальные файлы"</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/delete.png" alt="" width="464"><figcaption><p>Go to <code>EasyAntiCheat</code> folder and delete <code>Certificates</code> folder.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/delete.png" alt="" width="464"><figcaption><p>Проследуйте к папке <code>EasyAntiCheat</code> и удалите папку <code>Certificates</code></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt="" width="563"><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt=""><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
 
-6. Change your IP by restarting modem/router or use private VPN/[Cloudflare WARP](https://1.1.1.1).
-7. Check recent windows updates - if there was some update and after it you started experience this issue, [roll it back](https://www.itechtics.com/rollback-windows-updates/).
+6. Поменяйте свой IP путем перезагрузки роутера или используйте приватный VPN/[Cloudflare WARP](https://1.1.1.1).
+7. Проверьте [последние обновления Windows](ms-settings:windowsupdate-history). Если вы начали испытывать эту проблему после какого-то определенного обновления, нажмите ПКМ по нему и удалите его.
