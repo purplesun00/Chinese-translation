@@ -1,5 +1,5 @@
 ---
-description: Usual cause of this issue - corrupted game files.
+description: Обычно причина данной ошибки - повреждение файлов игры.
 ---
 
 # 🔘 Unknown file version

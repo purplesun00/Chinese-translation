@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🔘 Untrusted system file
 
 <figure><img src="../.gitbook/assets/untrustedsysfile.png" alt=""><figcaption></figcaption></figure>
