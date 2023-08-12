@@ -1,9 +1,9 @@
 ---
 description: >-
-  Game crashes instantly if launched from Steam, but runs fine if launched from
-  executables in installed files.
+  Игра сразу крашится если запускается из Steam, но при этом работает нормально
+  если запуск происходит от исполняемых файлов в корне игры.
 cover: ../.gitbook/assets/launchfromsteam.png
-coverY: 0
+coverY: -10
 layout:
   cover:
     visible: true
@@ -20,15 +20,15 @@ layout:
     visible: true
 ---
 
-# 🔘 Launch from Steam
+# 🔘 Запуск из Steam
 
-If you experience this problem:
+Если вы испытываете эту проблему:
 
-1. Navigate to launch options by right clicking the game and pressing "Properties...".
+1. Перейдите к параметрам запуска посредством нажатия ПКМ по игре, затем "Свойства...".
 
 <figure><img src="../.gitbook/assets/properties.png" alt=""><figcaption></figcaption></figure>
 
-2. Paste this in your launch options (replace your game path if it's different):\
-   `"C:\Program Files (x86)\Steam\steamapps\common\BattleBit Remastered\EasyAntiCheat.exe" %command%`&#x20;
+2. Вставьте эту строку в ваши параметры запуска (замените путь к корню игры если он отличается):\
+   `"C:\Program Files (x86)\Steam\steamapps\common\BattleBit Remastered\EasyAntiCheat.exe" %command%`
 
-<figure><img src="../.gitbook/assets/launchoptionsfix.png" alt=""><figcaption><p>It should look like this. If your game path differs - replace it with your actual game path.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/launchoptionsfix.png" alt=""><figcaption><p>Должно выглядеть как на скрине. Если путь к корню игры отличается (игра установлена не на диск С) - замените его на актуальный.</p></figcaption></figure>

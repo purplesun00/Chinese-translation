@@ -1,21 +1,21 @@
 ---
-description: Crash caused by wrong resolution setting.
+description: Краш, вызванный неправильным разрешением экрана.
 ---
 
 # 🔘 Wrong resolution
 
-This page is for users that have manually adjusted their resolution to a value that has caused BattleBit to constantly crash upon loading the game. Here's how to fix it:
+Если вы изменили разрешение экрана на неправильное и теперь при запуске игры она крашится, сделайте следующее:
 
-1. Open the AppData folder.
+1. Откройте папку AppData.
 
-<figure><img src="../.gitbook/assets/run_menu_appdata.png" alt=""><figcaption><p>Press Win+R, type <code>%appdata%</code> and press Enter.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/runappdata.png" alt="" width="369"><figcaption><p>Press Win+R, type <code>%appdata%</code> and press Enter.</p></figcaption></figure>
 
-2. Navigate to `BattleBitConfig.ini` file.
+2. В этой папке найдите файл `BattleBitConfig.ini`.
 
-<figure><img src="../.gitbook/assets/appdata_folder_config_file.png" alt=""><figcaption><p>AppData/Roaming folder</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/appdata_folder_config_file.png" alt=""><figcaption></figcaption></figure>
 
-3. &#x20;Set `customresolution` to true and `customscreenresolution` to match your monitor settings:
+3. Задайте `customresolution` значение true и `customscreenresolution` значение необходимого разрешения экрана (как на скриншоте ниже):
 
-<figure><img src="../.gitbook/assets/config_file.png" alt=""><figcaption><p>BattleBit config file</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/config_file.png" alt=""><figcaption></figcaption></figure>
 
-4. &#x20;Save your changes and close config file.
+4. Сохраните файл, закройте его и запустите игру.

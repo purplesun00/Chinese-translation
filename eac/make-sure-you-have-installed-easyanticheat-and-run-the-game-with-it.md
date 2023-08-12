@@ -16,7 +16,7 @@ coverY: 0
 
 <img src="../.gitbook/assets/browse.png" alt="" data-size="original">
 
-2. Нажмите ПКМ по исполняемому файлу и "Запуск от имени администратора".
+2. Нажмите ПКМ по исполняемому файлу, затем "Запуск от имени администратора".
 
 <img src="../.gitbook/assets/runasadmin.png" alt="" data-size="original">
 

@@ -1,24 +1,24 @@
 ---
 description: >-
-  ACCESS_VIOLATION - process tried to write to an area of memory that is
-  forbidden/inacessible.
+  ACCESS_VIOLATION - процесс попытался произвести запись в зону памяти которая
+  недоступна/запись в ней запрещена.
 ---
 
-# 🔘 The application was unable to start correctly (0xc0000005)
+# 🔘 The application was unable to start correctly (0xc0000005).
 
 <figure><img src="../.gitbook/assets/0xc0000005.jpg" alt=""><figcaption></figcaption></figure>
 
-1. If you use third-party antivirus make sure it's not interfering with the game and add BattleBit and EAC folder to exclusions. If it won't help - delete it (especially trend micro).
-2. Try running `BattlebitEAC.exe` or `EasyAntiCheat.exe` as admin located in installed files.
+1. Если вы используете сторонний антивирус - убедитесь, что вы добавили EAC в его исключения. Если это не поможет - попробуйте удалить антивирус (особенно trend micro), чтобы проверить, уйдет ли проблема.
+2. Попробуйте запустить `BattleBitEAC.exe` или `EasyAntiCheat.exe` (расположены в папке с игрой) от имени администратора.
 
-<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Right click on the game, then go to manage and click on Browse local files</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/browse.png" alt="" width="374"><figcaption><p>Нажмите ПКМ по игре, затем "Управление" и "Просмотреть локальные файлы".</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/runasadmin.png" alt="" width="287"><figcaption><p>Right click on executable and click "Run as administrator".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/runasadmin.png" alt="" width="417"><figcaption><p>Нажмите ПКМ по исполняемому файлу, затем "Запуск от имени администратора".</p></figcaption></figure>
 
-3. [Run sfc/dism](../other/running-sfc-dism.md).
-4. Disable overclocking software if you have any.
-5. Verify game files.
+3. Запустите [EAC Fix batch](https://github.com/livingflore/BattleBitEACFix/releases) (файл BattleBitEACFix.bat).
+4. Выключите любой оверклокинг (разгон) / софт для него.
+5. Проверьте целостность файлов игры.
 
-<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt=""><figcaption><p>Right click on the game and press "Properties...", Select "Installed Files" tab and press "Verify integrity of game files".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/BBR_Validation.gif" alt=""><figcaption><p>Нажмите ПКМ по игре, затем "Свойства...", перейдите во вкладку "Установленные файлы" и нажмите "Проверить целостность файлов игры".</p></figcaption></figure>
 
-6. Reinstall the game on other drive/partition.
+6. Переустановите игру на другой диск / раздел.
