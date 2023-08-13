@@ -12,12 +12,12 @@ layout:
     visible: true
 ---
 
-# 🔘 Your account is being reviewed by moderators
+# 🔘 Ваш аккаунт проверяется модераторами.
 
 <figure><img src="../.gitbook/assets/review.png" alt="" width="563"><figcaption></figcaption></figure>
 
-**First of all - be patient, this can take up to a few hours.**&#x20;
+**В первую очередь - наберитесь терпимости, это может занять вплоть до нескольких часов.**
 
-This is not a ban but a timeout and it may be lifted after a game moderator has reviewed your gameplay. There are multiple factors of why the system has timed you out, as well as abnormal amount of reports for specified reason. \
+Это не бан, а таймаут и может быть снят после того как игровой модератор просмотрит ваш геймплей. Существует несколько факторов того, почему система выдала вам таймаут, одним из них является ненормальное количество репортов по указанной причине.\
 \
-**This can happen again** even after your timeout gets lifted. We understand that this system isn't perfect and developers looking into improving it.
+**Это может произойти снова** даже после того как вам снимут таймаут. Мы понимаем, что эта система далека от идеала и разработчики активно рассматривают возможность ее улучшения.

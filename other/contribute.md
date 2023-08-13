@@ -17,8 +17,8 @@ layout:
     visible: true
 ---
 
-# 💡 Contribute
+# 💡 Внести свой вклад
 
-**You can help us by contributing to this documentation or by simply investigating some issues that doesn't being mentioned here.**\
+**Вы можете помочь нам посредством внесения своего вклада в эту документацию или просто помочь в исследовании некоторых проблем, которые здесь не упоминаются.**\
 \
-If you want to do so, proceed to [BattleBit Troubleshooting](https://discord.gg/xVr6rdfpuk) discord and contact one of the Project Leads to designate yourself. Thank you!
+Если у вас появилось такое желание, пожалуйста, посетите наш дискорд сервер [BattleBit Troubleshooting](https://discord.gg/xVr6rdfpuk) и свяжитесь с одним из Project Lead'ов для того, чтобы назначить себя на необходимую роль. Спасибо!

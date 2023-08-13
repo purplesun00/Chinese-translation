@@ -1,25 +1,25 @@
 ---
 description: >-
-  This page will help you to export all your settings including keybinds,
-  sensitivity, UI and others into one file.
+  Эта страница поможет вам экспортировать все ваши настройки включая бинды,
+  чувствительноcть, интерфейс и другое в один файл.
 ---
 
-# 🔘 Saving all your settings in one file
+# 🔘 Сохраняем все настройки в один файл
 
-1. Open registry editor.
+1. Откройте редактор реестра.
 
-<figure><img src="../.gitbook/assets/runregedit.png" alt=""><figcaption><p>Press Win+R, type<code>regedit.exe</code> and press enter.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/runregedit.png" alt="" width="369"><figcaption><p>Нажмите Win+R, введите <code>regedit.exe</code> и нажмите Enter.</p></figcaption></figure>
 
-2. Navigate to `HKEY_CURRENT_USER\SOFTWARE\BattleBitDevTeam\BattleBit`.
+2. Проследуйте по пути `HKEY_CURRENT_USER\SOFTWARE\BattleBitDevTeam\BattleBit`.
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/battlebitregistry.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/battlebitregistry.png" alt="" width="365"><figcaption></figcaption></figure>
 
 </div>
 
-3. Right click on `BattleBit` folder and press Export.
+3. Нажмите ПКМ по папке `BattleBit`, а затем "Экспортировать".
 
 <figure><img src="../.gitbook/assets/battlebitexport.png" alt=""><figcaption></figcaption></figure>
 
-4. Save this file and then run it to restore your settings (keybinds, sensitivity, etc).
+4. Сохраните этот файл. Когда вы захотите восстановить настройки, просто запустите его.

@@ -1,21 +1,21 @@
-# 🔘 Running sfc/dism
+# 🔘 Запуск sfc/dism
 
-1. Run command prompt as administrator.
+1. Запустите коммандную строку от администратора.
 
-<figure><img src="../.gitbook/assets/cmd.png" alt=""><figcaption><p>Type <code>cmd.exe</code> in search and press "Run as administrator".</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/cmd.png" alt="" width="563"><figcaption><p>Введите <code>cmd.exe</code> в пуске и нажмите "Запуск от имени администратора".</p></figcaption></figure>
 
-2. Run next commands in order:\
+2. Запустите следующие команды по порядку:\
    `sfc /scannow`\
-   `dism /online /cleanup-image /restorehealth`\
-   `dism /online /cleanup-image /scanhealth` \
+   `dism /online /cleanup-image /checkhealth`\
+   `dism /online /cleanup-image /scanhealth`\
    `dism /online /cleanup-image /restorehealth`
 
 <figure><img src="../.gitbook/assets/sfcdism.png" alt=""><figcaption><p>That's how command prompt should look after both sfc and dism finished.</p></figcaption></figure>
 
-3. After it's finished, additionally you can run `chkdsk /f /r /x` to check your drive for corruptions.
+3. После того, как они завершат свою работу, дополнительно вы можете запустить  `chkdsk /f /r /x` чтобы проверить ваш диск на повреждения.
 
 <figure><img src="../.gitbook/assets/chkdsk.png" alt=""><figcaption></figcaption></figure>
 
-After you'll press Y, reboot your PC.
+После того как вы нажмете Y, перезагрузите ваш ПК и `chkdsk` начнет работу.
 
 <figure><img src="../.gitbook/assets/chkdskloading.png" alt=""><figcaption></figcaption></figure>

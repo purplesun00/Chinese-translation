@@ -23,14 +23,14 @@
 
 ## 📶 Connectivity
 
-* [🔘 Invalid IPv6](connectivity/invalid-ipv6.md)
+* [🔘 Недействительный IPv6](connectivity/invalid-ipv6.md)
 
 ## 📑 Other
 
-* [🔘 Your account is being reviewed by moderators.](other/your-account-is-being-reviewed-by-moderators.md)
-* [🔘 Running sfc/dism](other/running-sfc-dism.md)
-* [🔘 Saving all your settings in one file](other/saving-all-your-settings-in-one-file.md)
-* [💡 Contribute](other/contribute.md)
+* [🔘 Ваш аккаунт проверяется модераторами.](other/your-account-is-being-reviewed-by-moderators.md)
+* [🔘 Запуск sfc/dism](other/running-sfc-dism.md)
+* [🔘 Сохраняем все настройки в один файл](other/saving-all-your-settings-in-one-file.md)
+* [💡 Внести свой вклад](other/contribute.md)
 
 ***
 

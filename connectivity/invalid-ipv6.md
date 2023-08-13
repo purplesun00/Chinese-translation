@@ -17,27 +17,27 @@ layout:
     visible: true
 ---
 
-# 🔘 Invalid IPv6
+# 🔘 Недействительный IPv6
 
-If you're stuck on connection to master server and when you're pinging `api.battlebit.cloud` it resolves as Invalid IPv6, do next:
+Если вы застряли на подключении к мастер-серверу, и когда вы пытаетесь проверить его работоспособность посредством команды `ping api.battlebit.cloud` в консоли вам выдает неверный IPv6, сделайте следующее:
 
 <details>
 
 <summary>Windows 10</summary>
 
-1. Click on "Network & Internet" in Windows Settings.
+1. Перейдите в Параметры Windows и нажмите на "Сеть и Интернет".
 
 <img src="../.gitbook/assets/network.png" alt="" data-size="original">
 
-2. Depending on your connection type select Wifi or Ethernet on "Change adapter options".
+2. Выберите "Настройка параметров адаптера".
 
 <img src="../.gitbook/assets/adapter.png" alt="" data-size="original">
 
-3. Right click on your main adapter and select properties.
+3. Нажмите ПКМ по вашей основной сети, затем выберите "Свойства".
 
 <img src="../.gitbook/assets/adapterproperties.png" alt="" data-size="original">
 
-4. Disable "Internet Protocol Version 6 (TCP/IPv6)" and press OK.
+4. Выключите "IP версии 6 (TCP/IPv6)" и нажмите ОК.
 
 <img src="../.gitbook/assets/disableipv6.png" alt="" data-size="original">
 
@@ -47,24 +47,24 @@ If you're stuck on connection to master server and when you're pinging `api.batt
 
 <summary>Windows 11</summary>
 
-1. Click on "Network & Internet" in Windows Settings.
+1. Перейдите в параметры Windows 11 и нажмите на вкладку "Сеть и Интернет".
 
-<img src="https://images.taylorgibbs.dev/bkfhsk.png" alt="" data-size="original">
+<img src="../.gitbook/assets/w11network.png" alt="" data-size="original">
 
-2. Click "Advanced Network Settings"
+2. Нажмите на "Дополнительные сетевые параметры".
 
-<img src="https://images.taylorgibbs.dev/uzyc3u.png" alt="" data-size="original">
+<img src="../.gitbook/assets/w11advancednetworkoptions.png" alt="" data-size="original">
 
-3. Scroll down and click "More network adapter options".
+3. Чуть ниже нажмите на "Дополнительные параметры сетевого адаптера".
 
-<img src="https://images.taylorgibbs.dev/a2myev.png" alt="" data-size="original">
+<img src="../.gitbook/assets/w11moreoptions.png" alt="" data-size="original">
 
-4. Right-click on your internet connection and click "Properties".
+4. Нажмите ПКМ по вашей основной сети, затем выберите "Свойства".
 
-<img src="https://images.taylorgibbs.dev/rn04y5.png" alt="" data-size="original">
+<img src="../.gitbook/assets/w11networkproperties.png" alt="" data-size="original">
 
-4. Disable "Internet Protocol Version 6 (TCP/IPv6)" and press OK.
+5. Выключите "IP версии 6 (TCP/IPv6)" и нажмите ОК.
 
-<img src="https://images.taylorgibbs.dev/no8q11.png" alt="" data-size="original">
+<img src="../.gitbook/assets/w11disableipv6.png" alt="" data-size="original">
 
 </details>

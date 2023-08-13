@@ -8,7 +8,7 @@ description: Краш, вызванный неправильным разреш�
 
 1. Откройте папку AppData.
 
-<figure><img src="../.gitbook/assets/runappdata.png" alt="" width="369"><figcaption><p>Press Win+R, type <code>%appdata%</code> and press Enter.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/run_menu_appdata.png" alt="" width="369"><figcaption><p>Нажмите Win+R, введите <code>%appdata%</code> и нажмите Enter.</p></figcaption></figure>
 
 2. В этой папке найдите файл `BattleBitConfig.ini`.
 
