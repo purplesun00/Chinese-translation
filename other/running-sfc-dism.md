@@ -6,8 +6,8 @@
 
 2. Run next commands in order:\
    `sfc /scannow`\
-   `dism /online /cleanup-image /restorehealth`\
-   `dism /online /cleanup-image /scanhealth` \
+   `dism /online /cleanup-image /checkhealth`\
+   `dism /online /cleanup-image /scanhealth`\
    `dism /online /cleanup-image /restorehealth`
 
 <figure><img src="../.gitbook/assets/sfcdism.png" alt=""><figcaption><p>That's how command prompt should look after both sfc and dism finished.</p></figcaption></figure>

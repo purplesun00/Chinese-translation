@@ -19,7 +19,7 @@ layout:
 
 # 🔘 Launch Error - Easy Anti-Cheat is not installed.
 
-Run the ["Install & Repair Easy Anti Cheat"](https://i.imgur.com/466AXn8.png) launch option.
+Run the "Install & Repair Easy Anti Cheat" launch option.
 
 <figure><img src="../.gitbook/assets/repaireac.png" alt="" width="357"><figcaption></figcaption></figure>
 

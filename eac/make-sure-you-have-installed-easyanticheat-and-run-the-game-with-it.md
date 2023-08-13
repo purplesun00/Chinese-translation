@@ -52,7 +52,7 @@ Ensure that **BOTH** VCRedists installed properly - [x86](https://aka.ms/vs/17/r
 This issue can happen when your connection unstable / Steam is down / you can't reach either EAC or BattleBit servers.
 
 1. Check Steam if you're in offline mode.
-2. Disable malware protection and firewall if you use third party antivirus (Kaspersky, Avast, etc)
+2. Disable malware protection and firewall if you use third party antivirus (Kaspersky, Avast, etc).
 3. Try to use mobile hotspot instead of your main internet connection just to launch the game. If it happens that you don't have it, proceed to the next step.
 4. Use any **private** VPN or [Cloudflare WARP](https://install.appcenter.ms/orgs/cloudflare/apps/1.1.1.1-windows-1/distribution\_groups/release).
 

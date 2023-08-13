@@ -19,6 +19,6 @@ layout:
 
 # 💡 Contribute
 
-**You can help us by contributing to this documentation or by simply investigating some issues that doesn't being mentioned here.**\
+**You can help us by contributing to this documentation or by simply investigating some issues that doesn't being mentioned here, or simply by translating this documentation on your language.**\
 \
 If you want to do so, proceed to [BattleBit Troubleshooting](https://discord.gg/xVr6rdfpuk) discord and contact one of the Project Leads to designate yourself. Thank you!
