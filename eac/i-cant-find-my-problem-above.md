@@ -26,10 +26,10 @@ When asking for help, please attach the following information:
 1. Screenshot of the error
 2. `service.log`:
    * Windows: `%appdata%\EasyAntiCheat`
-   * Linux (Proton): `~/.local/share/Steam/steamapps/compatdata/671860/pfx/drive_c/users/steamuser/AppData/EasyAntiCheat`
+   * Linux (Proton): `~/.local/share/Steam/steamapps/compatdata/671860/pfx/drive_c/users/steamuser/AppData/Roaming/EasyAntiCheat`
 3. `loader.log`:
    * Windows: `%appdata%\EasyAntiCheat\43ed9a4620fa486994c0b368cce73b5d\315826d981f4480aa6155e32d71b0d3b`
-   * Linux (Proton): `~/.local/share/Steam/steamapps/compatdata/671860/pfx/drive_c/users/steamuser/AppData/EasyAntiCheat/43ed9a4620fa486994c0b368cce73b5d/315826d981f4480aa6155e32d71b0d3b`
+   * Linux (Proton): `~/.local/share/Steam/steamapps/compatdata/671860/pfx/drive_c/users/steamuser/AppData/Roaming/EasyAntiCheat/43ed9a4620fa486994c0b368cce73b5d/315826d981f4480aa6155e32d71b0d3b`
 4. `player.log`:
    * Windows: `C:\Users\%username%\AppData\LocalLow\BattleBitDevTeam\BattleBit\`
    * Linux (Proton): `~/.local/share/Steam/steamapps/compatdata/671860/pfx/drive_c/users/steamuser/AppData/LocalLow/BattleBitDevTeam/BattleBit`
