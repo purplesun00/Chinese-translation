@@ -10,9 +10,9 @@
    `dism /online /cleanup-image /scanhealth`\
    `dism /online /cleanup-image /restorehealth`
 
-<figure><img src="../.gitbook/assets/sfcdism.png" alt=""><figcaption><p>That's how command prompt should look after both sfc and dism finished.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sfcdism.png" alt=""><figcaption></figcaption></figure>
 
-3. После того, как они завершат свою работу, дополнительно вы можете запустить  `chkdsk /f /r /x` чтобы проверить ваш диск на повреждения.
+3. После того, как они завершат свою работу, дополнительно вы можете запустить `chkdsk /f /r /x` чтобы проверить ваш диск на повреждения.
 
 <figure><img src="../.gitbook/assets/chkdsk.png" alt=""><figcaption></figcaption></figure>
 
