@@ -12,7 +12,7 @@
 * [🔘 Game Security Violation Detected](eac/game-violation-detected.md)
 * [🔘 StartService EasyAntiCheat\_EOSSys failed with 5.](eac/startservice-easyanticheat\_eossys-failed-with-5.md)
 * [🔘 Unknown file version](eac/unknown-file-version.md)
-* [🤨 I can't find my problem above](eac/i-cant-find-my-problem-above.md)
+* [🤨 Я не могу найти мою проблему выше](eac/i-cant-find-my-problem-above.md)
 
 ## 💥 Crashes
 
