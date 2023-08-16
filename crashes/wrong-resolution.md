@@ -1,21 +1,21 @@
 ---
-description: Crash caused by wrong resolution setting.
+description: 錯誤的解析度設定造成遊戲停止。
 ---
 
-# 🔘 Wrong resolution
+# 🔘 解析度錯誤
 
-This page is for users that have manually adjusted their resolution to a value that has caused BattleBit to constantly crash upon loading the game. Here's how to fix it:
+本頁面旨在幫助曾手動調整至某特定遊戲解析度，導致BattlebBit於載入時一再停止運行的玩家。 請依下列步驟修復:
 
-1. Open the AppData folder.
+1. 開啟Appdata資料夾。
 
-<figure><img src="../.gitbook/assets/run_menu_appdata.png" alt=""><figcaption><p>Press Win+R, type <code>%appdata%</code> and press Enter.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/run_menu_appdata.png" alt=""><figcaption><p>按 Windows+R, 輸入 <code>%appdata%</code> 後按 Enter.</p></figcaption></figure>
 
-2. Navigate to `BattleBitConfig.ini` file.
+2. 找到 `BattleBitConfig.ini` 檔案並打開。
 
-<figure><img src="../.gitbook/assets/appdata_folder_config_file.png" alt=""><figcaption><p>AppData/Roaming folder</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/appdata_folder_config_file.png" alt=""><figcaption><p>AppData/Roaming 資料夾</p></figcaption></figure>
 
-3. &#x20;Set `customresolution` to true and `customscreenresolution` to match your monitor settings:
+3. &#x20;將 `customresolution` 設為 true ，並將 `customscreenresolution` 設為你的螢幕解析度:
 
-<figure><img src="../.gitbook/assets/config_file.png" alt=""><figcaption><p>BattleBit config file</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/config_file.png" alt=""><figcaption><p>BattleBit config 設定檔</p></figcaption></figure>
 
-4. &#x20;Save your changes and close config file.
+4. &#x20;存檔並將檔案關閉。
