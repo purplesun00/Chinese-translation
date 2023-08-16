@@ -17,27 +17,27 @@ layout:
     visible: true
 ---
 
-# 🔘 無效的IPv6 (Invalid IPv6)
+# 🔘 Invalid IPv6
 
-如果你卡在連線至主伺服器頁面，而ping `api.battlebit.cloud` 回傳的結果為無效的IPv6 (Invalid IPv6)，請依系統版本進行以下步驟:
+If you're stuck on connection to master server and when you're pinging `api.battlebit.cloud` it resolves as Invalid IPv6, do next:
 
 <details>
 
 <summary>Windows 10</summary>
 
-1. 於系統設定中點選 「網路與網際網路」。
+1. Click on "Network & Internet" in Windows Settings.
 
 <img src="../.gitbook/assets/network.png" alt="" data-size="original">
 
-2. 依你的連線種類選擇Wifi或乙太網路，並選擇「變更介面卡選項」。
+2. Depending on your connection type select Wifi or Ethernet on "Change adapter options".
 
 <img src="../.gitbook/assets/adapter.png" alt="" data-size="original">
 
-3. 右鍵點選你使用的介面卡，並點選內容。
+3. Right click on your main adapter and select properties.
 
 <img src="../.gitbook/assets/adapterproperties.png" alt="" data-size="original">
 
-5. 將 「網際網路通訊協定第6版 (TCP/IPv6)」取消勾選，並點選確定。
+4. Disable "Internet Protocol Version 6 (TCP/IPv6)" and press OK.
 
 <img src="../.gitbook/assets/disableipv6.png" alt="" data-size="original">
 
@@ -47,23 +47,23 @@ layout:
 
 <summary>Windows 11</summary>
 
-1. 於系統設定中點選 「網路與網際網路」。
+1. Click on "Network & Internet" in Windows Settings.
 
 <img src="https://images.taylorgibbs.dev/bkfhsk.png" alt="" data-size="original">
 
-2. 點選「進階網路設定」。
+2. Click "Advanced Network Settings"
 
 <img src="https://images.taylorgibbs.dev/uzyc3u.png" alt="" data-size="original">
 
-3. 向下滑並點選「更多網路介面卡選項」
+3. Scroll down and click "More network adapter options".
 
 <img src="https://images.taylorgibbs.dev/a2myev.png" alt="" data-size="original">
 
-4. 右鍵點選你使用的介面卡，並點選內容。
+4. Right-click on your internet connection and click "Properties".
 
 <img src="https://images.taylorgibbs.dev/rn04y5.png" alt="" data-size="original">
 
-4. 將 「網際網路通訊協定第6版 (TCP/IPv6)」取消勾選，並點選確定。
+4. Disable "Internet Protocol Version 6 (TCP/IPv6)" and press OK.
 
 <img src="https://images.taylorgibbs.dev/no8q11.png" alt="" data-size="original">
 
